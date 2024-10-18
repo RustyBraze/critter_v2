@@ -2,6 +2,15 @@
 [![coverage report](https://chaos.expert/engelsystem/engelsystem/badges/main/coverage.svg)](https://chaos.expert/engelsystem/engelsystem/commits/main)
 [![GPL](https://img.shields.io/github/license/engelsystem/engelsystem.svg?maxAge=2592000)](LICENSE)
 
+---
+
+# VMS - Voluteer Management System
+
+This is the version 2.0 of the critter system that is based on Engelsystem.
+
+
+---
+
 # Engelsystem
 Please visit [engelsystem.de](https://engelsystem.de) for a feature list.
 
